@@ -5,7 +5,7 @@ HyperFile is a decentralized file storage website that leverages WEB3 technologi
 See the Demo video for more
 
 To setup Vite+React Project in the client folder:
-> npm init vire@latest
+> npm init vite@latest
 > npm install
 To Host the Website on Local network:
 > npm run dev
